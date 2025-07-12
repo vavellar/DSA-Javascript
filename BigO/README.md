@@ -13,4 +13,4 @@ Procurar pelo valor já não é interessante, pois preciso percorrer todo o arra
 
 https://www.bigocheatsheet.com/
 
-![Screenshot](../assets/WhatsApp%20Image%202025-07-08%20at%2016.02.46.jpeg)
+![Screenshot](./assets/WhatsApp%20Image%202025-07-08%20at%2016.02.46.jpeg)
